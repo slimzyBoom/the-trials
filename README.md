@@ -8,7 +8,6 @@ This project was built as part of the **Trial of the Protocol**, a backend syste
 - Encrypts sensitive fields: card number, CVV, phone number, and date of birth.
 - Links cards to users in a secure MongoDB schema.
 - Exposes an endpoint to list all users with decrypted/encrypted data views.
-- Tracks card status (`active`, `expired`, `blocked`) with expiration logic.
 
 ## 🔐 Tech Stack
 
