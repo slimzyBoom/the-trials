@@ -1,6 +1,6 @@
 import dayjs from "dayjs";
-import generateAccountNumber from "../utils/generateAccountNumber.util";
-import luhnCheck from "../utils/luhnCheck";
+import generateAccountNumber from "../utils/generateAccountNumber.util.js";
+import luhnCheck from "../utils/luhnCheck.js";
 
 const generateCard = () => {
     type CardType = "visa" | "mastercard";
