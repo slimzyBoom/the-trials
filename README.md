@@ -29,7 +29,7 @@ _Replace `#` with the actual link to your Postman collection._
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/cardvault.git
+   git clone git@github.com:slimzyBoom/the-trials.git
    cd cardvault
    ```
 
@@ -41,7 +41,7 @@ _Replace `#` with the actual link to your Postman collection._
 3. Create `.env` file and add:
    ```
    MONGO_URI=your_mongo_connection_string
-   ENCRYPTION_KEY=your_secret_key
+   CRYPTO_KEY=your_secret_key
    ```
 
 4. Run the app:
