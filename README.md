@@ -28,7 +28,7 @@ This project was built as part of the **Trial of the Protocol**, a backend syste
 1. Clone the repo:
    ```bash
    git clone git@github.com:slimzyBoom/the-trials.git
-   cd cardvault
+   cd the_trial
    ```
 
 2. Install dependencies:
