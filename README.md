@@ -8,7 +8,6 @@ This project was built as part of the **Trial of the Protocol**, a backend syste
 - Encrypts sensitive fields: card number, CVV, phone number, and date of birth.
 - Links cards to users in a secure MongoDB schema.
 - Exposes an endpoint to list all users with decrypted/encrypted data views.
-- Tracks card status (`active`, `expired`, `blocked`) with expiration logic.
 
 ## 🔐 Tech Stack
 
@@ -22,15 +21,14 @@ This project was built as part of the **Trial of the Protocol**, a backend syste
 
 ## 📬 API Collection
 
-👉 [Click here to view the Postman Collection](#)  
-_Replace `#` with the actual link to your Postman collection._
+👉 [Click here to view the Postman Collection](https://www.postman.com/blue-sunset-176479/team-workspace/collection/71anap9/the-trial?action=share&creator=31392809)  
 
 ## 🚀 Setup
 
 1. Clone the repo:
    ```bash
    git clone git@github.com:slimzyBoom/the-trials.git
-   cd cardvault
+   cd the_trial
    ```
 
 2. Install dependencies:
