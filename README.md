@@ -21,8 +21,7 @@ This project was built as part of the **Trial of the Protocol**, a backend syste
 
 ## 📬 API Collection
 
-👉 [Click here to view the Postman Collection](#)  
-_Replace `#` with the actual link to your Postman collection._
+👉 [Click here to view the Postman Collection](https://www.postman.com/blue-sunset-176479/team-workspace/collection/71anap9/the-trial?action=share&creator=31392809)  
 
 ## 🚀 Setup
 
